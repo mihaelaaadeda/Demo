@@ -1,6 +1,1 @@
 my first text file
-blah
-blah 
-blah
-
-modified
